@@ -1,8 +1,8 @@
 # AR-hand-tracking
 
-Description: In this work, we developed a real-time system of markerless augmented reality, in which we use the tracking of the user's hand (wearing a black glove) to position virtual information over the real environment. All the system was developed in C++.
+*Description:* In this work, we developed a real-time system of markerless augmented reality, in which we use the tracking of the user's hand (wearing a black glove) to position virtual information over the real environment. All the system was developed in C++.
 
-Work Proposal: Implementation of a MAR system capable of estimating, in real-time, the position and orientation of the hand from the captured video.
+*Work Proposal:* Implementation of a MAR system capable of estimating, in real-time, the position and orientation of the hand from the captured video.
 
 * Study about the Augmented Reality (RA) area, mainly RA markerless (MAR);
 * Study the area of ​​Digital Image Processing, specifically filters, and segmentation;
