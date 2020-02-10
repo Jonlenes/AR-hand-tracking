@@ -11,3 +11,5 @@
 - Estimate the camera pose from the detected hand;
 - Conduct studies related to the performance and viability of the developed system.
 
+**Full Description:** TCC.pdf (Portuguese)
+
