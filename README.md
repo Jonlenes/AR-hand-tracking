@@ -10,3 +10,4 @@
 - Segmentation, recognize and tracking the hand, to be used in MAR;
 - Estimate the camera pose from the detected hand;
 - Conduct studies related to the performance and viability of the developed system.
+
